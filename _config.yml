@@ -1,4 +1,3 @@
-layout_spectrum: 0.9191802861168981
 typography_spectrum: 0.9666049771476537
 color:
   brandStrength: 0.024017865769565105
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.9191802861168981
 name: mothearth.org
 title: Mother Earth
+description: 'If we can kill her, we can save her'
