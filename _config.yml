@@ -1,0 +1,14 @@
+layout_spectrum: 0.9191802861168981
+typography_spectrum: 0.9666049771476537
+color:
+  brandStrength: 0.024017865769565105
+  lightness: 0.29847180820070207
+  saturation: 0.27492586500011384
+  rhythmicContrast: 0.8464913875795901
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: mothearth.org
