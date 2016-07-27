@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.9191802861168981
 name: mothearth.org
+navigation:
+  - id: 26efa2b6-87df-4084-960c-69a039b39dbd
+    name: 'Town & country: refined runarounds for urban trysts and rural rendezvous.'
+    type: content
 title: Mother Earth
 description: 'If we can kill her, we can save her'
